@@ -1,0 +1,367 @@
+[
+    {
+        "Male Name": "Atenya, Anthony Magunga Ikobwa",
+        "Female Name": "Ogutu, Brenda Mary Anyango",
+        "Similarity": 0.5154981017112732
+    },
+    {
+        "Male Name": "Budembeshe, Moses Kasuni",
+        "Female Name": "Kamau, Ann Mumbi",
+        "Similarity": 0.5165274143218994
+    },
+    {
+        "Male Name": "Budembeshe, Moses Kasuni",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.5237840414047241
+    },
+    {
+        "Male Name": "Githinji, Don Moses Thigiti",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.5193485021591187
+    },
+    {
+        "Male Name": "Githinji, Don Moses Thigiti",
+        "Female Name": "Wachira, Joy Muthoni",
+        "Similarity": 0.5476901531219482
+    },
+    {
+        "Male Name": "Haji, Ashir Ali",
+        "Female Name": "Ismail, Ruweida Ali",
+        "Similarity": 0.5164077281951904
+    },
+    {
+        "Male Name": "Kiarie, Samuel Ndungu",
+        "Female Name": "Kangethe, Sharon Wanjiru",
+        "Similarity": 0.516908586025238
+    },
+    {
+        "Male Name": "Kiarie, Samuel Ndungu",
+        "Female Name": "Ndungu, Sarah Laura Wangari",
+        "Similarity": 0.5038996338844299
+    },
+    {
+        "Male Name": "Kinyua, Victor Mfana",
+        "Female Name": "Kangethe, Sharon Wanjiru",
+        "Similarity": 0.5365652441978455
+    },
+    {
+        "Male Name": "Kinyua, Victor Mfana",
+        "Female Name": "Muiyuro, Natasha Waithira",
+        "Similarity": 0.5898299217224121
+    },
+    {
+        "Male Name": "Kinyua, Victor Mfana",
+        "Female Name": "Ndambiri, Yvonne Nyambura",
+        "Similarity": 0.6097740530967712
+    },
+    {
+        "Male Name": "Kinyua, Victor Mfana",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.5243659019470215
+    },
+    {
+        "Male Name": "Kinyua, Victor Mfana",
+        "Female Name": "Wachira, Joy Muthoni",
+        "Similarity": 0.5789196491241455
+    },
+    {
+        "Male Name": "Kinyua, Victor Mfana",
+        "Female Name": "Waweru, Monika Ng'endo",
+        "Similarity": 0.6655173301696777
+    },
+    {
+        "Male Name": "Kirema, Ian Muteithia",
+        "Female Name": "Arunga, Kyla Neema",
+        "Similarity": 0.5216023325920105
+    },
+    {
+        "Male Name": "Kirema, Ian Muteithia",
+        "Female Name": "Kamau, Ann Mumbi",
+        "Similarity": 0.5364867448806763
+    },
+    {
+        "Male Name": "Kirema, Ian Muteithia",
+        "Female Name": "Karanu, Neema Muthoni",
+        "Similarity": 0.5630279779434204
+    },
+    {
+        "Male Name": "Kirema, Ian Muteithia",
+        "Female Name": "Mutunga, Patience Kamanthe",
+        "Similarity": 0.5030405521392822
+    },
+    {
+        "Male Name": "Kirema, Ian Muteithia",
+        "Female Name": "Nyambura, Erica",
+        "Similarity": 0.5176889300346375
+    },
+    {
+        "Male Name": "Kirema, Ian Muteithia",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.590008020401001
+    },
+    {
+        "Male Name": "Kirema, Ian Muteithia",
+        "Female Name": "Ogutu, Brenda Mary Anyango",
+        "Similarity": 0.5081793069839478
+    },
+    {
+        "Male Name": "Kithae, Eric Muriithi",
+        "Female Name": "Nyambura, Erica",
+        "Similarity": 0.5373178124427795
+    },
+    {
+        "Male Name": "Kithae, Eric Muriithi",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.5655403137207031
+    },
+    {
+        "Male Name": "Korir, Kevin Kimutai",
+        "Female Name": "Kamau, Ann Mumbi",
+        "Similarity": 0.5067060589790344
+    },
+    {
+        "Male Name": "Mohamed, Ally Mahamud",
+        "Female Name": "Ismail, Ruweida Ali",
+        "Similarity": 0.5569978356361389
+    },
+    {
+        "Male Name": "Morekwa, David Nyamongo",
+        "Female Name": "Muiyuro, Natasha Waithira",
+        "Similarity": 0.5136698484420776
+    },
+    {
+        "Male Name": "Morekwa, David Nyamongo",
+        "Female Name": "Naibei, Monicah",
+        "Similarity": 0.535560131072998
+    },
+    {
+        "Male Name": "Morekwa, David Nyamongo",
+        "Female Name": "Ndambiri, Yvonne Nyambura",
+        "Similarity": 0.5978884696960449
+    },
+    {
+        "Male Name": "Morekwa, David Nyamongo",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.5681990385055542
+    },
+    {
+        "Male Name": "Morekwa, David Nyamongo",
+        "Female Name": "Wachira, Joy Muthoni",
+        "Similarity": 0.5436751842498779
+    },
+    {
+        "Male Name": "Morekwa, David Nyamongo",
+        "Female Name": "Waweru, Monika Ng'endo",
+        "Similarity": 0.7233245968818665
+    },
+    {
+        "Male Name": "Mugambi, Kelvin Karani",
+        "Female Name": "Kamau, Ann Mumbi",
+        "Similarity": 0.5262165069580078
+    },
+    {
+        "Male Name": "Mugambi, Kelvin Karani",
+        "Female Name": "Karanu, Neema Muthoni",
+        "Similarity": 0.5087782144546509
+    },
+    {
+        "Male Name": "Muhia, Victor Mwaura",
+        "Female Name": "Muiyuro, Natasha Waithira",
+        "Similarity": 0.6746368408203125
+    },
+    {
+        "Male Name": "Muhia, Victor Mwaura",
+        "Female Name": "Ndambiri, Yvonne Nyambura",
+        "Similarity": 0.522596001625061
+    },
+    {
+        "Male Name": "Muhia, Victor Mwaura",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.5664441585540771
+    },
+    {
+        "Male Name": "Muhia, Victor Mwaura",
+        "Female Name": "Wachira, Joy Muthoni",
+        "Similarity": 0.6160558462142944
+    },
+    {
+        "Male Name": "Muhia, Victor Mwaura",
+        "Female Name": "Waweru, Monika Ng'endo",
+        "Similarity": 0.6523666381835938
+    },
+    {
+        "Male Name": "Muroki, Mark Gichuhi",
+        "Female Name": "Mutaki, Ruby Mbete",
+        "Similarity": 0.5242409706115723
+    },
+    {
+        "Male Name": "Muroki, Mark Gichuhi",
+        "Female Name": "Naibei, Monicah",
+        "Similarity": 0.5364550352096558
+    },
+    {
+        "Male Name": "Muroki, Mark Gichuhi",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.5793055295944214
+    },
+    {
+        "Male Name": "Muroki, Mark Gichuhi",
+        "Female Name": "Wachira, Joy Muthoni",
+        "Similarity": 0.5701873302459717
+    },
+    {
+        "Male Name": "Muroki, Mark Gichuhi",
+        "Female Name": "Waweru, Monika Ng'endo",
+        "Similarity": 0.5562009811401367
+    },
+    {
+        "Male Name": "Mutua, Franklin Karanja",
+        "Female Name": "Karanu, Neema Muthoni",
+        "Similarity": 0.5451380014419556
+    },
+    {
+        "Male Name": "Mutua, Franklin Karanja",
+        "Female Name": "Muli, Grace Kanini",
+        "Similarity": 0.5154945254325867
+    },
+    {
+        "Male Name": "Mutunga, Eric Kiamba",
+        "Female Name": "Kamau, Ann Mumbi",
+        "Similarity": 0.5161142349243164
+    },
+    {
+        "Male Name": "Mutunga, Eric Kiamba",
+        "Female Name": "Nyambura, Erica",
+        "Similarity": 0.7334146499633789
+    },
+    {
+        "Male Name": "Mwanda, George Josiah",
+        "Female Name": "Wachira, Joy Muthoni",
+        "Similarity": 0.6054967641830444
+    },
+    {
+        "Male Name": "Nabaala, Andrew Kasaine",
+        "Female Name": "Arunga, Kyla Neema",
+        "Similarity": 0.5055265426635742
+    },
+    {
+        "Male Name": "Nabaala, Andrew Kasaine",
+        "Female Name": "Kamau, Ann Mumbi",
+        "Similarity": 0.5135493278503418
+    },
+    {
+        "Male Name": "Nabaala, Andrew Kasaine",
+        "Female Name": "Ogutu, Brenda Mary Anyango",
+        "Similarity": 0.5222724080085754
+    },
+    {
+        "Male Name": "Ng'ang'a, Ian Mutuge",
+        "Female Name": "Kamau, Ann Mumbi",
+        "Similarity": 0.535033643245697
+    },
+    {
+        "Male Name": "Ng'ang'a, Ian Mutuge",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.553110659122467
+    },
+    {
+        "Male Name": "Ng'ang'a, Ian Mutuge",
+        "Female Name": "Waweru, Monika Ng'endo",
+        "Similarity": 0.522852897644043
+    },
+    {
+        "Male Name": "Ngeno, Alvin Kipkurui",
+        "Female Name": "Ndambiri, Yvonne Nyambura",
+        "Similarity": 0.5081241130828857
+    },
+    {
+        "Male Name": "Ngigi, Michael Macharia",
+        "Female Name": "Muiyuro, Natasha Waithira",
+        "Similarity": 0.5344268083572388
+    },
+    {
+        "Male Name": "Ngigi, Michael Macharia",
+        "Female Name": "Naibei, Monicah",
+        "Similarity": 0.615734338760376
+    },
+    {
+        "Male Name": "Ngigi, Michael Macharia",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.5553581714630127
+    },
+    {
+        "Male Name": "Ngigi, Michael Macharia",
+        "Female Name": "Wachira, Joy Muthoni",
+        "Similarity": 0.5532110929489136
+    },
+    {
+        "Male Name": "Ngigi, Michael Macharia",
+        "Female Name": "Waweru, Monika Ng'endo",
+        "Similarity": 0.5732153654098511
+    },
+    {
+        "Male Name": "Nugi, Andrew Kiarie",
+        "Female Name": "Ogutu, Brenda Mary Anyango",
+        "Similarity": 0.5292749404907227
+    },
+    {
+        "Male Name": "Nugi, Andrew Kiarie",
+        "Female Name": "Orony, Charis Ng'wono",
+        "Similarity": 0.5610904097557068
+    },
+    {
+        "Male Name": "Ombeni, Mwenzangu Faraja",
+        "Female Name": "Karanu, Neema Muthoni",
+        "Similarity": 0.6215587854385376
+    },
+    {
+        "Male Name": "Ombeni, Mwenzangu Faraja",
+        "Female Name": "Mutunga, Patience Kamanthe",
+        "Similarity": 0.531745970249176
+    },
+    {
+        "Male Name": "Ombeni, Mwenzangu Faraja",
+        "Female Name": "Wachira, Joy Muthoni",
+        "Similarity": 0.5177308917045593
+    },
+    {
+        "Male Name": "Ombongi, Caleb Magare",
+        "Female Name": "Kamau, Ann Mumbi",
+        "Similarity": 0.6081923246383667
+    },
+    {
+        "Male Name": "Tonui, Martin",
+        "Female Name": "Nzioki, Maureen Mutete",
+        "Similarity": 0.5685948133468628
+    },
+    {
+        "Male Name": "Wanjao, Louis Mbugua",
+        "Female Name": "Ndambiri, Yvonne Nyambura",
+        "Similarity": 0.5510632991790771
+    },
+    {
+        "Male Name": "Wanjao, Louis Mbugua",
+        "Female Name": "Waweru, Monika Ng'endo",
+        "Similarity": 0.5130952000617981
+    },
+    {
+        "Male Name": "Waweru, Trevor Kariuki",
+        "Female Name": "Kangethe, Sharon Wanjiru",
+        "Similarity": 0.6017085313796997
+    },
+    {
+        "Male Name": "Waweru, Trevor Kariuki",
+        "Female Name": "Ndambiri, Yvonne Nyambura",
+        "Similarity": 0.5576145648956299
+    },
+    {
+        "Male Name": "Waweru, Trevor Kariuki",
+        "Female Name": "Orony, Charis Ng'wono",
+        "Similarity": 0.50043785572052
+    },
+    {
+        "Male Name": "Waweru, Trevor Kariuki",
+        "Female Name": "Wachira, Joy Muthoni",
+        "Similarity": 0.5626471042633057
+    }
+]
