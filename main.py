@@ -46,37 +46,61 @@ def main():
         logging.info('Names with special characters:')
         logging.info(names_with_special_chars['Student Name'].tolist())
 
+        # Compute similarity results using LaBSE
+        model = SentenceTransformer('LaBSE')
+        male_names = male_students['Student Name'].tolist()
+        female_names = female_students['Student Name'].tolist()
+
+        male_embeddings = model.encode(male_names)
+        female_embeddings = model.encode(female_names)
+
+        similarities = cosine_similarity(male_embeddings, female_embeddings)
+        similarity_results = []
+
+        for i, male_name in enumerate(male_names):
+            for j, female_name in enumerate(female_names):
+                if similarities[i, j] >= 0.5:
+                    similarity_results.append({
+                        'Male Name': male_name,
+                        'Female Name': female_name,
+                        'Similarity': float(similarities[i, j])
+                    })
+
         # Merge all documents
         files = ['male_students.csv', 'female_students.csv']
         merged_df = load_and_merge_files(files)
 
         # Prepare JSON data
-        json_data = []
-        for idx, row in merged_df.iterrows():
-            dob = row['DoB']
-            gender = row['Gender'].lower()
-            special_character = 'yes' if special_characters.search(row['Student Name']) else 'no'
-            name_similar = 'no'  # Placeholder for similarity checking, not implemented
-            json_data.append({
-                'id': str(idx),
-                'student_number': row['Student Number'],
-                'additional_details': [{
-                    'dob': dob,
-                    'gender': gender,
-                    'special_character': [special_character],
-                    'name_similar': [name_similar]
-                }]
-            })
+        df_shuffled = merged_df.sample(frac=1).reset_index(drop=True)
 
-        # Shuffle and Save Data
-        df_shuffled = pd.DataFrame(json_data).sample(frac=1).reset_index(drop=True)
-        df_shuffled.to_json('shuffled_data.json', orient='records', lines=False, indent=4)
+        # Save the original JSON file unshuffled
+        df_shuffled.to_json('shuffled_student_data.json', orient='records', lines=False, indent=4)
 
-        # Save as JSONL
-        with open('shuffled_data.jsonl', 'w') as f:
-            for record in json_data:
-                json.dump(record, f, indent=4)
-                # f.write('\n')
+        # Create a new list to store data in the desired format for JSONL
+        formatted_data = []
+
+        for index, row in df_shuffled.iterrows():
+            formatted_entry = {
+                "id": str(index),
+                "student_number": str(row['Student Number']),
+                "additional_details": [
+                    {
+                        "dob": row['DoB'],  # Ensure DOB column exists in the DataFrame
+                        "gender": row['Gender'].lower(),
+                        "special_character": ["yes" if re.search(r'[^a-zA-Z\s]', row['Student Name']) else "no"],
+                        "name_similar": ["yes" if any(result['Similarity'] >= 0.5 for result in similarity_results if
+                                                      result['Male Name'] == row['Student Name'] or result[
+                                                          'Female Name'] == row['Student Name']) else "no"]
+                    }
+                ]
+            }
+            formatted_data.append(formatted_entry)
+
+        # Save the formatted data to the JSONL file
+        with open('shuffled_student_data_copy.jsonl', 'w') as jsonl_file:
+            for entry in formatted_data:
+                json.dump(entry, jsonl_file, indent=4)
+                jsonl_file.write('\n')
 
         logging.info('Data processed and saved successfully.')
 
@@ -85,7 +109,6 @@ def main():
 
     finally:
         logging.info('Process completed.')
-
 
 
 if __name__ == "__main__":
