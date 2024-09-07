@@ -148,3 +148,125 @@ Trying to resume download...
 2024-09-06 09:34:23,655 - INFO - Load pretrained SentenceTransformer: LaBSE
 2024-09-06 09:34:37,630 - INFO - Data processed and saved successfully.
 2024-09-06 09:34:37,630 - INFO - Process completed.
+2024-09-06 11:07:48,934 - INFO - Starting the process...
+2024-09-06 11:07:48,955 - INFO - Loading data from Test Files.xlsx...
+2024-09-06 11:07:50,317 - INFO - Data loaded successfully with 64 records.
+2024-09-06 11:07:50,317 - INFO - Generating email addresses...
+2024-09-06 11:07:50,382 - INFO - Email addresses generated successfully.
+2024-09-06 11:07:50,422 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-06 11:07:50,424 - INFO - Names with special characters:
+2024-09-06 11:07:50,424 - INFO - ['Abwoga, Adrian Jared Paul', "Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", 'Arunga, Kyla Neema', 'Atenya, Anthony Magunga Ikobwa', 'Budembeshe, Moses Kasuni', 'Dessalegn, Kalid Geleta', 'Epetet, Keith Lokwei', 'Ger, David Otieno', 'Githinji, Don Moses Thigiti', 'Haji, Ashir Ali', 'Hassan, Fardowsa Abduhakim', 'Ismail, Ruweida Ali', 'Johnson, Myles Adebayo', 'Kamau, Ann Mumbi', 'Kangethe, Sharon Wanjiru', 'Karanu, Neema Muthoni', 'Kiarie, Samuel Ndungu', 'Kihara, Shannon Kendi', 'Kimutai, Peter Kibet', 'Kinyua, Victor Mfana', 'Kirema, Ian Muteithia', 'Kithae, Eric Muriithi', 'Korir, Kevin Kimutai', 'Kwoba, Alex Wafula', 'Maritim, Kelvin Kipngeno', 'Masaka, Zivai Takadiwa David', 'Mohamed, Ally Mahamud', 'Morekwa, David Nyamongo', 'Mugambi, Kelvin Karani', 'Muhia, Victor Mwaura', 'Muiyuro, Natasha Waithira', 'Muli, Grace Kanini', 'Muroki, Mark Gichuhi', 'Mutaki, Ruby Mbete', 'Mutua, Franklin Karanja', 'Mutunga, Eric Kiamba', 'Mutunga, Patience Kamanthe', 'Mwanda, George Josiah', 'Nabaala, Andrew Kasaine', 'Naibei, Monicah', 'Ndambiri, Yvonne Nyambura', 'Ndungu, Sarah Laura Wangari', "Ng'ang'a, Ian Mutuge", 'Ngeno, Alvin Kipkurui', 'Ngigi, Michael Macharia', 'Njuguna, Elizabeth Njoki', 'Nugi, Andrew Kiarie', 'Nyambura, Erica', 'Nzioki, Maureen Mutete', 'Ochanda, Steven Joel Jona', 'Ogutu, Brenda Mary Anyango', 'Ombeni, Mwenzangu Faraja', 'Ombongi, Caleb Magare', "Orony, Charis Ng'wono", 'Owens, Nicole Owens', 'Patel, Jay Hirji', 'Tonui, Martin', 'Tum, Bramwel Kipchirchir', 'Wachira, Joy Muthoni', 'Wakaba, Rosemary Njeri', 'Wanjao, Louis Mbugua', "Waweru, Monika Ng'endo", 'Waweru, Trevor Kariuki']
+2024-09-06 11:07:50,476 - ERROR - An error occurred: 'DOB'
+2024-09-06 11:07:50,476 - INFO - Process completed.
+2024-09-06 11:08:11,322 - INFO - Starting the process...
+2024-09-06 11:08:11,322 - INFO - Loading data from Test Files.xlsx...
+2024-09-06 11:08:11,551 - INFO - Data loaded successfully with 64 records.
+2024-09-06 11:08:11,552 - INFO - Generating email addresses...
+2024-09-06 11:08:11,552 - INFO - Email addresses generated successfully.
+2024-09-06 11:08:11,558 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-06 11:08:11,558 - INFO - Names with special characters:
+2024-09-06 11:08:11,558 - INFO - ['Abwoga, Adrian Jared Paul', "Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", 'Arunga, Kyla Neema', 'Atenya, Anthony Magunga Ikobwa', 'Budembeshe, Moses Kasuni', 'Dessalegn, Kalid Geleta', 'Epetet, Keith Lokwei', 'Ger, David Otieno', 'Githinji, Don Moses Thigiti', 'Haji, Ashir Ali', 'Hassan, Fardowsa Abduhakim', 'Ismail, Ruweida Ali', 'Johnson, Myles Adebayo', 'Kamau, Ann Mumbi', 'Kangethe, Sharon Wanjiru', 'Karanu, Neema Muthoni', 'Kiarie, Samuel Ndungu', 'Kihara, Shannon Kendi', 'Kimutai, Peter Kibet', 'Kinyua, Victor Mfana', 'Kirema, Ian Muteithia', 'Kithae, Eric Muriithi', 'Korir, Kevin Kimutai', 'Kwoba, Alex Wafula', 'Maritim, Kelvin Kipngeno', 'Masaka, Zivai Takadiwa David', 'Mohamed, Ally Mahamud', 'Morekwa, David Nyamongo', 'Mugambi, Kelvin Karani', 'Muhia, Victor Mwaura', 'Muiyuro, Natasha Waithira', 'Muli, Grace Kanini', 'Muroki, Mark Gichuhi', 'Mutaki, Ruby Mbete', 'Mutua, Franklin Karanja', 'Mutunga, Eric Kiamba', 'Mutunga, Patience Kamanthe', 'Mwanda, George Josiah', 'Nabaala, Andrew Kasaine', 'Naibei, Monicah', 'Ndambiri, Yvonne Nyambura', 'Ndungu, Sarah Laura Wangari', "Ng'ang'a, Ian Mutuge", 'Ngeno, Alvin Kipkurui', 'Ngigi, Michael Macharia', 'Njuguna, Elizabeth Njoki', 'Nugi, Andrew Kiarie', 'Nyambura, Erica', 'Nzioki, Maureen Mutete', 'Ochanda, Steven Joel Jona', 'Ogutu, Brenda Mary Anyango', 'Ombeni, Mwenzangu Faraja', 'Ombongi, Caleb Magare', "Orony, Charis Ng'wono", 'Owens, Nicole Owens', 'Patel, Jay Hirji', 'Tonui, Martin', 'Tum, Bramwel Kipchirchir', 'Wachira, Joy Muthoni', 'Wakaba, Rosemary Njeri', 'Wanjao, Louis Mbugua', "Waweru, Monika Ng'endo", 'Waweru, Trevor Kariuki']
+2024-09-06 11:08:11,563 - ERROR - An error occurred: name 'similarity_results' is not defined
+2024-09-06 11:08:11,564 - INFO - Process completed.
+2024-09-06 11:12:49,684 - INFO - Starting the process...
+2024-09-06 11:12:49,710 - INFO - Loading data from Test Files.xlsx...
+2024-09-06 11:12:50,892 - INFO - Data loaded successfully with 64 records.
+2024-09-06 11:12:50,892 - INFO - Generating email addresses...
+2024-09-06 11:12:50,958 - INFO - Email addresses generated successfully.
+2024-09-06 11:12:51,000 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-06 11:12:51,001 - INFO - Names with special characters:
+2024-09-06 11:12:51,001 - INFO - ['Abwoga, Adrian Jared Paul', "Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", 'Arunga, Kyla Neema', 'Atenya, Anthony Magunga Ikobwa', 'Budembeshe, Moses Kasuni', 'Dessalegn, Kalid Geleta', 'Epetet, Keith Lokwei', 'Ger, David Otieno', 'Githinji, Don Moses Thigiti', 'Haji, Ashir Ali', 'Hassan, Fardowsa Abduhakim', 'Ismail, Ruweida Ali', 'Johnson, Myles Adebayo', 'Kamau, Ann Mumbi', 'Kangethe, Sharon Wanjiru', 'Karanu, Neema Muthoni', 'Kiarie, Samuel Ndungu', 'Kihara, Shannon Kendi', 'Kimutai, Peter Kibet', 'Kinyua, Victor Mfana', 'Kirema, Ian Muteithia', 'Kithae, Eric Muriithi', 'Korir, Kevin Kimutai', 'Kwoba, Alex Wafula', 'Maritim, Kelvin Kipngeno', 'Masaka, Zivai Takadiwa David', 'Mohamed, Ally Mahamud', 'Morekwa, David Nyamongo', 'Mugambi, Kelvin Karani', 'Muhia, Victor Mwaura', 'Muiyuro, Natasha Waithira', 'Muli, Grace Kanini', 'Muroki, Mark Gichuhi', 'Mutaki, Ruby Mbete', 'Mutua, Franklin Karanja', 'Mutunga, Eric Kiamba', 'Mutunga, Patience Kamanthe', 'Mwanda, George Josiah', 'Nabaala, Andrew Kasaine', 'Naibei, Monicah', 'Ndambiri, Yvonne Nyambura', 'Ndungu, Sarah Laura Wangari', "Ng'ang'a, Ian Mutuge", 'Ngeno, Alvin Kipkurui', 'Ngigi, Michael Macharia', 'Njuguna, Elizabeth Njoki', 'Nugi, Andrew Kiarie', 'Nyambura, Erica', 'Nzioki, Maureen Mutete', 'Ochanda, Steven Joel Jona', 'Ogutu, Brenda Mary Anyango', 'Ombeni, Mwenzangu Faraja', 'Ombongi, Caleb Magare', "Orony, Charis Ng'wono", 'Owens, Nicole Owens', 'Patel, Jay Hirji', 'Tonui, Martin', 'Tum, Bramwel Kipchirchir', 'Wachira, Joy Muthoni', 'Wakaba, Rosemary Njeri', 'Wanjao, Louis Mbugua', "Waweru, Monika Ng'endo", 'Waweru, Trevor Kariuki']
+2024-09-06 11:12:51,019 - INFO - Use pytorch device_name: cpu
+2024-09-06 11:12:51,019 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-09-06 11:20:40,692 - INFO - Process completed.
+2024-09-06 22:29:51,751 - INFO - Starting the process...
+2024-09-06 22:29:51,762 - INFO - Loading data from Test Files.xlsx...
+2024-09-06 22:29:52,969 - INFO - Data loaded successfully with 64 records.
+2024-09-06 22:29:52,969 - INFO - Generating email addresses...
+2024-09-06 22:29:53,011 - INFO - Email addresses generated successfully.
+2024-09-06 22:29:53,121 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-06 22:29:53,123 - INFO - Names with special characters:
+2024-09-06 22:29:53,123 - INFO - ['Abwoga, Adrian Jared Paul', "Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", 'Arunga, Kyla Neema', 'Atenya, Anthony Magunga Ikobwa', 'Budembeshe, Moses Kasuni', 'Dessalegn, Kalid Geleta', 'Epetet, Keith Lokwei', 'Ger, David Otieno', 'Githinji, Don Moses Thigiti', 'Haji, Ashir Ali', 'Hassan, Fardowsa Abduhakim', 'Ismail, Ruweida Ali', 'Johnson, Myles Adebayo', 'Kamau, Ann Mumbi', 'Kangethe, Sharon Wanjiru', 'Karanu, Neema Muthoni', 'Kiarie, Samuel Ndungu', 'Kihara, Shannon Kendi', 'Kimutai, Peter Kibet', 'Kinyua, Victor Mfana', 'Kirema, Ian Muteithia', 'Kithae, Eric Muriithi', 'Korir, Kevin Kimutai', 'Kwoba, Alex Wafula', 'Maritim, Kelvin Kipngeno', 'Masaka, Zivai Takadiwa David', 'Mohamed, Ally Mahamud', 'Morekwa, David Nyamongo', 'Mugambi, Kelvin Karani', 'Muhia, Victor Mwaura', 'Muiyuro, Natasha Waithira', 'Muli, Grace Kanini', 'Muroki, Mark Gichuhi', 'Mutaki, Ruby Mbete', 'Mutua, Franklin Karanja', 'Mutunga, Eric Kiamba', 'Mutunga, Patience Kamanthe', 'Mwanda, George Josiah', 'Nabaala, Andrew Kasaine', 'Naibei, Monicah', 'Ndambiri, Yvonne Nyambura', 'Ndungu, Sarah Laura Wangari', "Ng'ang'a, Ian Mutuge", 'Ngeno, Alvin Kipkurui', 'Ngigi, Michael Macharia', 'Njuguna, Elizabeth Njoki', 'Nugi, Andrew Kiarie', 'Nyambura, Erica', 'Nzioki, Maureen Mutete', 'Ochanda, Steven Joel Jona', 'Ogutu, Brenda Mary Anyango', 'Ombeni, Mwenzangu Faraja', 'Ombongi, Caleb Magare', "Orony, Charis Ng'wono", 'Owens, Nicole Owens', 'Patel, Jay Hirji', 'Tonui, Martin', 'Tum, Bramwel Kipchirchir', 'Wachira, Joy Muthoni', 'Wakaba, Rosemary Njeri', 'Wanjao, Louis Mbugua', "Waweru, Monika Ng'endo", 'Waweru, Trevor Kariuki']
+2024-09-06 22:29:53,220 - INFO - Use pytorch device_name: cpu
+2024-09-06 22:29:53,220 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-09-06 22:30:45,070 - INFO - Process completed.
+2024-09-07 14:13:39,972 - INFO - Starting the process...
+2024-09-07 14:13:39,980 - INFO - Loading data from Test Files.xlsx...
+2024-09-07 14:13:42,182 - INFO - Data loaded successfully with 64 records.
+2024-09-07 14:13:42,182 - INFO - Generating email addresses...
+2024-09-07 14:13:42,226 - INFO - Email addresses generated successfully.
+2024-09-07 14:13:42,278 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-07 14:13:42,279 - INFO - Names with special characters:
+2024-09-07 14:13:42,279 - INFO - ['Abwoga, Adrian Jared Paul', "Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", 'Arunga, Kyla Neema', 'Atenya, Anthony Magunga Ikobwa', 'Budembeshe, Moses Kasuni', 'Dessalegn, Kalid Geleta', 'Epetet, Keith Lokwei', 'Ger, David Otieno', 'Githinji, Don Moses Thigiti', 'Haji, Ashir Ali', 'Hassan, Fardowsa Abduhakim', 'Ismail, Ruweida Ali', 'Johnson, Myles Adebayo', 'Kamau, Ann Mumbi', 'Kangethe, Sharon Wanjiru', 'Karanu, Neema Muthoni', 'Kiarie, Samuel Ndungu', 'Kihara, Shannon Kendi', 'Kimutai, Peter Kibet', 'Kinyua, Victor Mfana', 'Kirema, Ian Muteithia', 'Kithae, Eric Muriithi', 'Korir, Kevin Kimutai', 'Kwoba, Alex Wafula', 'Maritim, Kelvin Kipngeno', 'Masaka, Zivai Takadiwa David', 'Mohamed, Ally Mahamud', 'Morekwa, David Nyamongo', 'Mugambi, Kelvin Karani', 'Muhia, Victor Mwaura', 'Muiyuro, Natasha Waithira', 'Muli, Grace Kanini', 'Muroki, Mark Gichuhi', 'Mutaki, Ruby Mbete', 'Mutua, Franklin Karanja', 'Mutunga, Eric Kiamba', 'Mutunga, Patience Kamanthe', 'Mwanda, George Josiah', 'Nabaala, Andrew Kasaine', 'Naibei, Monicah', 'Ndambiri, Yvonne Nyambura', 'Ndungu, Sarah Laura Wangari', "Ng'ang'a, Ian Mutuge", 'Ngeno, Alvin Kipkurui', 'Ngigi, Michael Macharia', 'Njuguna, Elizabeth Njoki', 'Nugi, Andrew Kiarie', 'Nyambura, Erica', 'Nzioki, Maureen Mutete', 'Ochanda, Steven Joel Jona', 'Ogutu, Brenda Mary Anyango', 'Ombeni, Mwenzangu Faraja', 'Ombongi, Caleb Magare', "Orony, Charis Ng'wono", 'Owens, Nicole Owens', 'Patel, Jay Hirji', 'Tonui, Martin', 'Tum, Bramwel Kipchirchir', 'Wachira, Joy Muthoni', 'Wakaba, Rosemary Njeri', 'Wanjao, Louis Mbugua', "Waweru, Monika Ng'endo", 'Waweru, Trevor Kariuki']
+2024-09-07 14:13:42,300 - INFO - Use pytorch device_name: cpu
+2024-09-07 14:13:42,300 - INFO - Load pretrained SentenceTransformer: LaBSE
+2024-09-07 14:14:03,013 - ERROR - An error occurred: 'DOB'
+2024-09-07 14:14:03,017 - INFO - Process completed.
+2024-09-07 14:17:27,055 - INFO - Starting the process...
+2024-09-07 14:17:27,075 - INFO - Loading data from Test Files.xlsx...
+2024-09-07 14:17:27,912 - INFO - Data loaded successfully with 64 records.
+2024-09-07 14:17:27,912 - INFO - Generating email addresses...
+2024-09-07 14:17:27,954 - INFO - Email addresses generated successfully.
+2024-09-07 14:17:28,034 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-07 14:17:28,035 - INFO - Names with special characters:
+2024-09-07 14:17:28,035 - INFO - ['Abwoga, Adrian Jared Paul', "Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", 'Arunga, Kyla Neema', 'Atenya, Anthony Magunga Ikobwa', 'Budembeshe, Moses Kasuni', 'Dessalegn, Kalid Geleta', 'Epetet, Keith Lokwei', 'Ger, David Otieno', 'Githinji, Don Moses Thigiti', 'Haji, Ashir Ali', 'Hassan, Fardowsa Abduhakim', 'Ismail, Ruweida Ali', 'Johnson, Myles Adebayo', 'Kamau, Ann Mumbi', 'Kangethe, Sharon Wanjiru', 'Karanu, Neema Muthoni', 'Kiarie, Samuel Ndungu', 'Kihara, Shannon Kendi', 'Kimutai, Peter Kibet', 'Kinyua, Victor Mfana', 'Kirema, Ian Muteithia', 'Kithae, Eric Muriithi', 'Korir, Kevin Kimutai', 'Kwoba, Alex Wafula', 'Maritim, Kelvin Kipngeno', 'Masaka, Zivai Takadiwa David', 'Mohamed, Ally Mahamud', 'Morekwa, David Nyamongo', 'Mugambi, Kelvin Karani', 'Muhia, Victor Mwaura', 'Muiyuro, Natasha Waithira', 'Muli, Grace Kanini', 'Muroki, Mark Gichuhi', 'Mutaki, Ruby Mbete', 'Mutua, Franklin Karanja', 'Mutunga, Eric Kiamba', 'Mutunga, Patience Kamanthe', 'Mwanda, George Josiah', 'Nabaala, Andrew Kasaine', 'Naibei, Monicah', 'Ndambiri, Yvonne Nyambura', 'Ndungu, Sarah Laura Wangari', "Ng'ang'a, Ian Mutuge", 'Ngeno, Alvin Kipkurui', 'Ngigi, Michael Macharia', 'Njuguna, Elizabeth Njoki', 'Nugi, Andrew Kiarie', 'Nyambura, Erica', 'Nzioki, Maureen Mutete', 'Ochanda, Steven Joel Jona', 'Ogutu, Brenda Mary Anyango', 'Ombeni, Mwenzangu Faraja', 'Ombongi, Caleb Magare', "Orony, Charis Ng'wono", 'Owens, Nicole Owens', 'Patel, Jay Hirji', 'Tonui, Martin', 'Tum, Bramwel Kipchirchir', 'Wachira, Joy Muthoni', 'Wakaba, Rosemary Njeri', 'Wanjao, Louis Mbugua', "Waweru, Monika Ng'endo", 'Waweru, Trevor Kariuki']
+2024-09-07 14:17:28,052 - INFO - Use pytorch device_name: cpu
+2024-09-07 14:17:28,052 - INFO - Load pretrained SentenceTransformer: LaBSE
+2024-09-07 14:17:45,655 - INFO - Data processed and saved successfully.
+2024-09-07 14:21:54,637 - INFO - Starting the process...
+2024-09-07 14:21:54,637 - INFO - Loading data from Test Files.xlsx...
+2024-09-07 14:21:55,213 - INFO - Data loaded successfully with 64 records.
+2024-09-07 14:21:55,213 - INFO - Generating email addresses...
+2024-09-07 14:21:55,214 - INFO - Email addresses generated successfully.
+2024-09-07 14:21:55,248 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-07 14:21:55,250 - INFO - Names with special characters:
+2024-09-07 14:21:55,250 - INFO - ['Abwoga, Adrian Jared Paul', "Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", 'Arunga, Kyla Neema', 'Atenya, Anthony Magunga Ikobwa', 'Budembeshe, Moses Kasuni', 'Dessalegn, Kalid Geleta', 'Epetet, Keith Lokwei', 'Ger, David Otieno', 'Githinji, Don Moses Thigiti', 'Haji, Ashir Ali', 'Hassan, Fardowsa Abduhakim', 'Ismail, Ruweida Ali', 'Johnson, Myles Adebayo', 'Kamau, Ann Mumbi', 'Kangethe, Sharon Wanjiru', 'Karanu, Neema Muthoni', 'Kiarie, Samuel Ndungu', 'Kihara, Shannon Kendi', 'Kimutai, Peter Kibet', 'Kinyua, Victor Mfana', 'Kirema, Ian Muteithia', 'Kithae, Eric Muriithi', 'Korir, Kevin Kimutai', 'Kwoba, Alex Wafula', 'Maritim, Kelvin Kipngeno', 'Masaka, Zivai Takadiwa David', 'Mohamed, Ally Mahamud', 'Morekwa, David Nyamongo', 'Mugambi, Kelvin Karani', 'Muhia, Victor Mwaura', 'Muiyuro, Natasha Waithira', 'Muli, Grace Kanini', 'Muroki, Mark Gichuhi', 'Mutaki, Ruby Mbete', 'Mutua, Franklin Karanja', 'Mutunga, Eric Kiamba', 'Mutunga, Patience Kamanthe', 'Mwanda, George Josiah', 'Nabaala, Andrew Kasaine', 'Naibei, Monicah', 'Ndambiri, Yvonne Nyambura', 'Ndungu, Sarah Laura Wangari', "Ng'ang'a, Ian Mutuge", 'Ngeno, Alvin Kipkurui', 'Ngigi, Michael Macharia', 'Njuguna, Elizabeth Njoki', 'Nugi, Andrew Kiarie', 'Nyambura, Erica', 'Nzioki, Maureen Mutete', 'Ochanda, Steven Joel Jona', 'Ogutu, Brenda Mary Anyango', 'Ombeni, Mwenzangu Faraja', 'Ombongi, Caleb Magare', "Orony, Charis Ng'wono", 'Owens, Nicole Owens', 'Patel, Jay Hirji', 'Tonui, Martin', 'Tum, Bramwel Kipchirchir', 'Wachira, Joy Muthoni', 'Wakaba, Rosemary Njeri', 'Wanjao, Louis Mbugua', "Waweru, Monika Ng'endo", 'Waweru, Trevor Kariuki']
+2024-09-07 14:21:55,252 - INFO - Use pytorch device_name: cpu
+2024-09-07 14:21:55,252 - INFO - Load pretrained SentenceTransformer: LaBSE
+2024-09-07 14:22:06,216 - INFO - Data processed and saved successfully.
+2024-09-07 14:23:33,052 - INFO - "GET /?state=DsWBSW5YxcPRucP1zVXS4dEBMS2uIP&code=4/0AQlEd8zOOjvODHh8IwvjRH5KSgG05BUlsDGvPW8VaRZ0RM8pEZXHqAIxn-TU5LHPTecxig&scope=https://www.googleapis.com/auth/drive.file HTTP/1.1" 200 65
+2024-09-07 14:23:33,509 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-07 14:23:35,906 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-07 14:23:38,415 - INFO - Process completed.
+2024-09-07 14:27:32,870 - INFO - Starting the process...
+2024-09-07 14:27:32,870 - INFO - Loading data from Test Files.xlsx...
+2024-09-07 14:27:33,686 - INFO - Data loaded successfully with 64 records.
+2024-09-07 14:27:33,686 - INFO - Generating email addresses...
+2024-09-07 14:27:33,687 - INFO - Email addresses generated successfully.
+2024-09-07 14:27:33,701 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-07 14:27:33,702 - INFO - Names with special characters:
+2024-09-07 14:27:33,702 - INFO - ['Abwoga, Adrian Jared Paul', "Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", 'Arunga, Kyla Neema', 'Atenya, Anthony Magunga Ikobwa', 'Budembeshe, Moses Kasuni', 'Dessalegn, Kalid Geleta', 'Epetet, Keith Lokwei', 'Ger, David Otieno', 'Githinji, Don Moses Thigiti', 'Haji, Ashir Ali', 'Hassan, Fardowsa Abduhakim', 'Ismail, Ruweida Ali', 'Johnson, Myles Adebayo', 'Kamau, Ann Mumbi', 'Kangethe, Sharon Wanjiru', 'Karanu, Neema Muthoni', 'Kiarie, Samuel Ndungu', 'Kihara, Shannon Kendi', 'Kimutai, Peter Kibet', 'Kinyua, Victor Mfana', 'Kirema, Ian Muteithia', 'Kithae, Eric Muriithi', 'Korir, Kevin Kimutai', 'Kwoba, Alex Wafula', 'Maritim, Kelvin Kipngeno', 'Masaka, Zivai Takadiwa David', 'Mohamed, Ally Mahamud', 'Morekwa, David Nyamongo', 'Mugambi, Kelvin Karani', 'Muhia, Victor Mwaura', 'Muiyuro, Natasha Waithira', 'Muli, Grace Kanini', 'Muroki, Mark Gichuhi', 'Mutaki, Ruby Mbete', 'Mutua, Franklin Karanja', 'Mutunga, Eric Kiamba', 'Mutunga, Patience Kamanthe', 'Mwanda, George Josiah', 'Nabaala, Andrew Kasaine', 'Naibei, Monicah', 'Ndambiri, Yvonne Nyambura', 'Ndungu, Sarah Laura Wangari', "Ng'ang'a, Ian Mutuge", 'Ngeno, Alvin Kipkurui', 'Ngigi, Michael Macharia', 'Njuguna, Elizabeth Njoki', 'Nugi, Andrew Kiarie', 'Nyambura, Erica', 'Nzioki, Maureen Mutete', 'Ochanda, Steven Joel Jona', 'Ogutu, Brenda Mary Anyango', 'Ombeni, Mwenzangu Faraja', 'Ombongi, Caleb Magare', "Orony, Charis Ng'wono", 'Owens, Nicole Owens', 'Patel, Jay Hirji', 'Tonui, Martin', 'Tum, Bramwel Kipchirchir', 'Wachira, Joy Muthoni', 'Wakaba, Rosemary Njeri', 'Wanjao, Louis Mbugua', "Waweru, Monika Ng'endo", 'Waweru, Trevor Kariuki']
+2024-09-07 14:27:33,705 - INFO - Use pytorch device_name: cpu
+2024-09-07 14:27:33,705 - INFO - Load pretrained SentenceTransformer: LaBSE
+2024-09-07 14:27:49,629 - INFO - Data processed and saved successfully.
+2024-09-07 14:27:49,646 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-07 14:27:52,931 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-07 14:27:55,105 - INFO - Process completed.
+2024-09-07 14:42:02,025 - INFO - Starting the process...
+2024-09-07 14:42:02,029 - INFO - Loading data from Test Files.xlsx...
+2024-09-07 14:42:03,712 - INFO - Data loaded successfully with 64 records.
+2024-09-07 14:42:03,712 - INFO - Generating email addresses...
+2024-09-07 14:42:03,754 - INFO - Email addresses generated successfully.
+2024-09-07 14:42:03,831 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-07 14:42:03,832 - INFO - Names with special characters:
+2024-09-07 14:42:03,833 - INFO - ["Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", "Ng'ang'a, Ian Mutuge", "Orony, Charis Ng'wono", "Waweru, Monika Ng'endo"]
+2024-09-07 14:42:03,853 - INFO - Use pytorch device_name: cpu
+2024-09-07 14:42:03,853 - INFO - Load pretrained SentenceTransformer: LaBSE
+2024-09-07 14:42:26,137 - INFO - Data processed and saved successfully.
+2024-09-07 14:42:26,174 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-07 14:42:29,975 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-07 14:42:32,289 - INFO - Process completed.
+2024-09-07 14:50:03,925 - INFO - Starting the process...
+2024-09-07 14:50:03,925 - INFO - Loading data from Test Files.xlsx...
+2024-09-07 14:50:04,647 - INFO - Data loaded successfully with 64 records.
+2024-09-07 14:50:04,648 - INFO - Generating email addresses...
+2024-09-07 14:50:04,649 - INFO - Email addresses generated successfully.
+2024-09-07 14:50:04,723 - INFO - Separated lists saved: 40 Male and 24 Female students.
+2024-09-07 14:50:04,725 - INFO - Names with special characters:
+2024-09-07 14:50:04,725 - INFO - ["Akong'o, Shanelle Hilda Anyango", "Ang'edu, Jude Ocomil", "Ng'ang'a, Ian Mutuge", "Orony, Charis Ng'wono", "Waweru, Monika Ng'endo"]
+2024-09-07 14:50:04,738 - INFO - Use pytorch device_name: cpu
+2024-09-07 14:50:04,738 - INFO - Load pretrained SentenceTransformer: LaBSE
+2024-09-07 14:50:20,236 - INFO - Data processed and saved successfully.
+2024-09-07 14:50:20,254 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-07 14:50:22,740 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-09-07 14:50:24,982 - INFO - Process completed.

@@ -1,901 +1,5 @@
 {
     "id": "0",
-    "student_number": "141910",
-    "additional_details": [
-        {
-            "dob": "2001-11-28",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "1",
-    "student_number": "143621",
-    "additional_details": [
-        {
-            "dob": "2001-08-07",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "2",
-    "student_number": "145434",
-    "additional_details": [
-        {
-            "dob": "2002-06-17",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "3",
-    "student_number": "144955",
-    "additional_details": [
-        {
-            "dob": "2000-04-10",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "4",
-    "student_number": "140801",
-    "additional_details": [
-        {
-            "dob": "2003-10-26",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "5",
-    "student_number": "137931",
-    "additional_details": [
-        {
-            "dob": "2002-04-19",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "6",
-    "student_number": "145837",
-    "additional_details": [
-        {
-            "dob": "2002-06-02",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "7",
-    "student_number": "137668",
-    "additional_details": [
-        {
-            "dob": "2000-01-16",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "8",
-    "student_number": "124965",
-    "additional_details": [
-        {
-            "dob": "2002-09-27",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "9",
-    "student_number": "145350",
-    "additional_details": [
-        {
-            "dob": "2002-08-19",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "10",
-    "student_number": "144234",
-    "additional_details": [
-        {
-            "dob": "2000-06-17",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "11",
-    "student_number": "146015",
-    "additional_details": [
-        {
-            "dob": "2000-06-09",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "12",
-    "student_number": "146273",
-    "additional_details": [
-        {
-            "dob": "2002-10-14",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "13",
-    "student_number": "145346",
-    "additional_details": [
-        {
-            "dob": "2002-02-24",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "14",
-    "student_number": "131652",
-    "additional_details": [
-        {
-            "dob": "2002-09-16",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "15",
-    "student_number": "145982",
-    "additional_details": [
-        {
-            "dob": "2003-06-13",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "16",
-    "student_number": "146098",
-    "additional_details": [
-        {
-            "dob": "2003-10-21",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "17",
-    "student_number": "145356",
-    "additional_details": [
-        {
-            "dob": "2002-05-20",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "18",
-    "student_number": "138348",
-    "additional_details": [
-        {
-            "dob": "2001-12-28",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "19",
-    "student_number": "145460",
-    "additional_details": [
-        {
-            "dob": "2002-10-26",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "20",
-    "student_number": "145883",
-    "additional_details": [
-        {
-            "dob": "2000-02-20",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "21",
-    "student_number": "134362",
-    "additional_details": [
-        {
-            "dob": "2003-07-11",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "22",
-    "student_number": "89724",
-    "additional_details": [
-        {
-            "dob": "2003-08-11",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "23",
-    "student_number": "102206",
-    "additional_details": [
-        {
-            "dob": "2002-07-06",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "24",
-    "student_number": "142005",
-    "additional_details": [
-        {
-            "dob": "2000-09-14",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "25",
-    "student_number": "145644",
-    "additional_details": [
-        {
-            "dob": "2000-09-20",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "26",
-    "student_number": "138551",
-    "additional_details": [
-        {
-            "dob": "2000-04-08",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "27",
-    "student_number": "141855",
-    "additional_details": [
-        {
-            "dob": "2000-08-08",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "28",
-    "student_number": "138458",
-    "additional_details": [
-        {
-            "dob": "2001-03-01",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "29",
-    "student_number": "145702",
-    "additional_details": [
-        {
-            "dob": "2001-11-24",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "30",
-    "student_number": "145706",
-    "additional_details": [
-        {
-            "dob": "2001-07-27",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "31",
-    "student_number": "141756",
-    "additional_details": [
-        {
-            "dob": "2003-06-25",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "32",
-    "student_number": "141706",
-    "additional_details": [
-        {
-            "dob": "2000-10-23",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "33",
-    "student_number": "145401",
-    "additional_details": [
-        {
-            "dob": "2003-08-21",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "34",
-    "student_number": "124342",
-    "additional_details": [
-        {
-            "dob": "2001-04-20",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "35",
-    "student_number": "138367",
-    "additional_details": [
-        {
-            "dob": "2001-12-03",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "36",
-    "student_number": "145732",
-    "additional_details": [
-        {
-            "dob": "2002-12-22",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "37",
-    "student_number": "134693",
-    "additional_details": [
-        {
-            "dob": "2001-06-08",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "38",
-    "student_number": "145547",
-    "additional_details": [
-        {
-            "dob": "2001-01-23",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "39",
-    "student_number": "146602",
-    "additional_details": [
-        {
-            "dob": "2003-10-28",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "40",
-    "student_number": "122279",
-    "additional_details": [
-        {
-            "dob": "2000-09-26",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "41",
-    "student_number": "139010",
-    "additional_details": [
-        {
-            "dob": "2002-08-26",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "42",
-    "student_number": "145890",
-    "additional_details": [
-        {
-            "dob": "2002-11-28",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "43",
-    "student_number": "132747",
-    "additional_details": [
-        {
-            "dob": "2001-02-06",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "44",
-    "student_number": "145840",
-    "additional_details": [
-        {
-            "dob": "2000-02-20",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "45",
-    "student_number": "145493",
-    "additional_details": [
-        {
-            "dob": "2002-04-26",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "46",
-    "student_number": "136559",
-    "additional_details": [
-        {
-            "dob": "2003-10-01",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "47",
-    "student_number": "146357",
-    "additional_details": [
-        {
-            "dob": "2001-02-13",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "48",
-    "student_number": "145353",
-    "additional_details": [
-        {
-            "dob": "2002-07-21",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "49",
-    "student_number": "146320",
-    "additional_details": [
-        {
-            "dob": "2000-09-07",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "50",
-    "student_number": "145889",
-    "additional_details": [
-        {
-            "dob": "2000-04-27",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "51",
-    "student_number": "122992",
-    "additional_details": [
-        {
-            "dob": "2000-10-02",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "52",
-    "student_number": "138897",
-    "additional_details": [
-        {
-            "dob": "2000-04-02",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "53",
-    "student_number": "146360",
-    "additional_details": [
-        {
-            "dob": "2000-01-11",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "54",
-    "student_number": "137357",
-    "additional_details": [
-        {
-            "dob": "2002-03-17",
-            "gender": "m",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "yes"
-            ]
-        }
-    ]
-}
-{
-    "id": "55",
-    "student_number": "145587",
-    "additional_details": [
-        {
-            "dob": "2001-11-14",
-            "gender": "f",
-            "special_character": [
-                "yes"
-            ],
-            "name_similar": [
-                "no"
-            ]
-        }
-    ]
-}
-{
-    "id": "56",
     "student_number": "128099",
     "additional_details": [
         {
@@ -911,7 +15,519 @@
     ]
 }
 {
-    "id": "57",
+    "id": "1",
+    "student_number": "131652",
+    "additional_details": [
+        {
+            "dob": "2002-09-16",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "2",
+    "student_number": "143621",
+    "additional_details": [
+        {
+            "dob": "2001-08-07",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "3",
+    "student_number": "145353",
+    "additional_details": [
+        {
+            "dob": "2002-07-21",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "4",
+    "student_number": "145982",
+    "additional_details": [
+        {
+            "dob": "2003-06-13",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "5",
+    "student_number": "137357",
+    "additional_details": [
+        {
+            "dob": "2002-03-17",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "6",
+    "student_number": "145401",
+    "additional_details": [
+        {
+            "dob": "2003-08-21",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "7",
+    "student_number": "122992",
+    "additional_details": [
+        {
+            "dob": "2000-10-02",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "8",
+    "student_number": "141910",
+    "additional_details": [
+        {
+            "dob": "2001-11-28",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "9",
+    "student_number": "146098",
+    "additional_details": [
+        {
+            "dob": "2003-10-21",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "10",
+    "student_number": "146273",
+    "additional_details": [
+        {
+            "dob": "2002-10-14",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "11",
+    "student_number": "146360",
+    "additional_details": [
+        {
+            "dob": "2000-01-11",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "12",
+    "student_number": "144955",
+    "additional_details": [
+        {
+            "dob": "2000-04-10",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "13",
+    "student_number": "146197",
+    "additional_details": [
+        {
+            "dob": "2003-04-15",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "14",
+    "student_number": "138367",
+    "additional_details": [
+        {
+            "dob": "2001-12-03",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "15",
+    "student_number": "138897",
+    "additional_details": [
+        {
+            "dob": "2000-04-02",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "16",
+    "student_number": "145587",
+    "additional_details": [
+        {
+            "dob": "2001-11-14",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "17",
+    "student_number": "146320",
+    "additional_details": [
+        {
+            "dob": "2000-09-07",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "18",
+    "student_number": "145547",
+    "additional_details": [
+        {
+            "dob": "2001-01-23",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "19",
+    "student_number": "141756",
+    "additional_details": [
+        {
+            "dob": "2003-06-25",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "20",
+    "student_number": "138551",
+    "additional_details": [
+        {
+            "dob": "2000-04-08",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "21",
+    "student_number": "124965",
+    "additional_details": [
+        {
+            "dob": "2002-09-27",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "22",
+    "student_number": "145840",
+    "additional_details": [
+        {
+            "dob": "2000-02-20",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "23",
+    "student_number": "89724",
+    "additional_details": [
+        {
+            "dob": "2003-08-11",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "24",
+    "student_number": "145837",
+    "additional_details": [
+        {
+            "dob": "2002-06-02",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "25",
+    "student_number": "132747",
+    "additional_details": [
+        {
+            "dob": "2001-02-06",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "26",
+    "student_number": "145460",
+    "additional_details": [
+        {
+            "dob": "2002-10-26",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "27",
+    "student_number": "102206",
+    "additional_details": [
+        {
+            "dob": "2002-07-06",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "28",
+    "student_number": "145883",
+    "additional_details": [
+        {
+            "dob": "2000-02-20",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "29",
+    "student_number": "140801",
+    "additional_details": [
+        {
+            "dob": "2003-10-26",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "30",
+    "student_number": "145356",
+    "additional_details": [
+        {
+            "dob": "2002-05-20",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "31",
+    "student_number": "145732",
+    "additional_details": [
+        {
+            "dob": "2002-12-22",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "32",
+    "student_number": "145706",
+    "additional_details": [
+        {
+            "dob": "2001-07-27",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "33",
     "student_number": "137222",
     "additional_details": [
         {
@@ -927,7 +543,295 @@
     ]
 }
 {
-    "id": "58",
+    "id": "34",
+    "student_number": "141706",
+    "additional_details": [
+        {
+            "dob": "2000-10-23",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "35",
+    "student_number": "145346",
+    "additional_details": [
+        {
+            "dob": "2002-02-24",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "36",
+    "student_number": "134693",
+    "additional_details": [
+        {
+            "dob": "2001-06-08",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "37",
+    "student_number": "145890",
+    "additional_details": [
+        {
+            "dob": "2002-11-28",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "38",
+    "student_number": "145644",
+    "additional_details": [
+        {
+            "dob": "2000-09-20",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "39",
+    "student_number": "145889",
+    "additional_details": [
+        {
+            "dob": "2000-04-27",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "40",
+    "student_number": "145434",
+    "additional_details": [
+        {
+            "dob": "2002-06-17",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "41",
+    "student_number": "136559",
+    "additional_details": [
+        {
+            "dob": "2003-10-01",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "42",
+    "student_number": "137931",
+    "additional_details": [
+        {
+            "dob": "2002-04-19",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "43",
+    "student_number": "139471",
+    "additional_details": [
+        {
+            "dob": "2002-10-05",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "44",
+    "student_number": "144234",
+    "additional_details": [
+        {
+            "dob": "2000-06-17",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "45",
+    "student_number": "124342",
+    "additional_details": [
+        {
+            "dob": "2001-04-20",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "46",
+    "student_number": "138458",
+    "additional_details": [
+        {
+            "dob": "2001-03-01",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "47",
+    "student_number": "142005",
+    "additional_details": [
+        {
+            "dob": "2000-09-14",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "48",
+    "student_number": "122279",
+    "additional_details": [
+        {
+            "dob": "2000-09-26",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "49",
+    "student_number": "146015",
+    "additional_details": [
+        {
+            "dob": "2000-06-09",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "50",
+    "student_number": "141855",
+    "additional_details": [
+        {
+            "dob": "2000-08-08",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "51",
+    "student_number": "137766",
+    "additional_details": [
+        {
+            "dob": "2001-04-27",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "52",
     "student_number": "87244",
     "additional_details": [
         {
@@ -943,12 +847,108 @@
     ]
 }
 {
-    "id": "59",
-    "student_number": "138493",
+    "id": "53",
+    "student_number": "145493",
     "additional_details": [
         {
-            "dob": "2003-04-04",
+            "dob": "2002-04-26",
             "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "no"
+            ]
+        }
+    ]
+}
+{
+    "id": "54",
+    "student_number": "145350",
+    "additional_details": [
+        {
+            "dob": "2002-08-19",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "55",
+    "student_number": "134362",
+    "additional_details": [
+        {
+            "dob": "2003-07-11",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "56",
+    "student_number": "145702",
+    "additional_details": [
+        {
+            "dob": "2001-11-24",
+            "gender": "f",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "57",
+    "student_number": "146602",
+    "additional_details": [
+        {
+            "dob": "2003-10-28",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "58",
+    "student_number": "138348",
+    "additional_details": [
+        {
+            "dob": "2001-12-28",
+            "gender": "m",
+            "special_character": [
+                "yes"
+            ],
+            "name_similar": [
+                "yes"
+            ]
+        }
+    ]
+}
+{
+    "id": "59",
+    "student_number": "137668",
+    "additional_details": [
+        {
+            "dob": "2000-01-16",
+            "gender": "f",
             "special_character": [
                 "yes"
             ],
@@ -976,27 +976,27 @@
 }
 {
     "id": "61",
-    "student_number": "137766",
+    "student_number": "146357",
     "additional_details": [
         {
-            "dob": "2001-04-27",
+            "dob": "2001-02-13",
             "gender": "m",
             "special_character": [
                 "yes"
             ],
             "name_similar": [
-                "no"
+                "yes"
             ]
         }
     ]
 }
 {
     "id": "62",
-    "student_number": "139471",
+    "student_number": "138493",
     "additional_details": [
         {
-            "dob": "2002-10-05",
-            "gender": "f",
+            "dob": "2003-04-04",
+            "gender": "m",
             "special_character": [
                 "yes"
             ],
@@ -1008,11 +1008,11 @@
 }
 {
     "id": "63",
-    "student_number": "146197",
+    "student_number": "139010",
     "additional_details": [
         {
-            "dob": "2003-04-15",
-            "gender": "m",
+            "dob": "2002-08-26",
+            "gender": "f",
             "special_character": [
                 "yes"
             ],
